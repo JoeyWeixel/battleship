@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyWeixel/battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeyWeixel/battleship/issues"
+  },
+  "homepage": "https://github.com/JoeyWeixel/battleship#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
